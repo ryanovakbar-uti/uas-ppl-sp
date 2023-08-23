@@ -1,0 +1,8 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab:
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab:
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab:
