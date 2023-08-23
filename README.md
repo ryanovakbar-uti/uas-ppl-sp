@@ -9,4 +9,4 @@ Berikut tata cara pengerjaan soal:
 5. Buatlah repository baru menggunakan akun Github anda dengan format nama repository tugas-ppl-nama anda
 6. Push branch baru ke Repository Github anda dan lakukan pull request ke branch default
 7. Screenshot history git command pada terminal dengan perintah `git log --oneline --graph`
-8. Masukkan hasil screenshot ke word dan kirim beserta url repository nya
+8. Masukkan hasil screenshot ke word dan kirim beserta url repository nya ke email [ichwansholihin03@gmail.com](mailto:ichwansholihin03@gmail.com)
