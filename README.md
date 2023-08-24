@@ -7,6 +7,8 @@ Berikut tata cara pengerjaan soal:
 3. Buatlah satu branch baru dengan format npm-nama
 4. Tambahkan satu file (.txt) berisi deskripsi salah satu metode pengujian perangkat lunak
 5. Buatlah repository baru menggunakan akun Github anda dengan format nama repository tugas-ppl-nama anda
-6. Push branch baru ke Repository Github anda dan lakukan pull request ke branch default
-7. Screenshot history git command pada terminal dengan perintah `git log --oneline --graph`
-8. Masukkan hasil screenshot ke word dan kirim beserta url repository nya ke email [ichwansholihin03@gmail.com](mailto:ichwansholihin03@gmail.com) dengan subject Tugas PPL-NPM-Nama Anda
+6. Buatlah sebuah perencanaan project di `Kanban` dan convert semua task ke `Issues`
+7. Isi perencanaan project disesuaikan dengan fitur sistem yang akan dikembangkan
+8. Push branch baru ke Repository Github anda dan lakukan pull request ke branch default
+9. Screenshot history git command pada terminal dengan perintah `git log --oneline --graph`
+10. Masukkan hasil screenshot ke word dan kirim beserta url repository nya ke email [ichwansholihin03@gmail.com](mailto:ichwansholihin03@gmail.com) dengan subject Tugas PPL-NPM-Nama Anda
