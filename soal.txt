@@ -1,8 +1,18 @@
-1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Nama:
+NPM:
+Kode Soal:
+
+1. Sistem apa yang anda kembangkan?
 Jawab:
 
-2. Apa tujuan anda mengembangkan sistem tersebut?
+2. Permasalahan apa yang terjadi pada studi kasus anda?
 Jawab:
 
-3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
 Jawab:
