@@ -1,9 +1,9 @@
-Nama:
-NPM:
-Prodi:
+Nama: Ryanov Akbar
+NPM: 21312020
+Prodi: Informatika
 
 Link hasil perencanaan sistem menggunakan BRD:
-*upload BRD ke drive dan pastikan akses file bersifat public
+https://drive.google.com/drive/folders/1kzqvjv9esLXogwZc-UgL1R9HF1VdfI6Q
 
 Link hasil perencanaan sistem menggunakan Trello:
-*upload link trello dan pastikan akses board bersifat public
+https://trello.com/b/M1qUzeRu/uas-proyek-perangkat-lunak-sp

@@ -1,18 +1,18 @@
-Nama:
-NPM:
-Kode Soal:
+Nama: Ryanov Akbar
+NPM: 21312020
+Kode Soal: B
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Aplikasi Sistem Klinik Bersalin XYZ berbasis Web
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Klinik Bersalin XYZ adalah salah satu penyedia layanan kesehatan seperti pemeriksaan kehamilan, persalinan, imunisasi balita dan pelayanan KB hingga pemeriksaan kesehatan. Saat ini, Klink Bersalin XYZ belum menerapkan dan memanfaatkan sistem informasi terintegrasi guna mendukung aktivitas klinik. Akibatnya hal tersebut kurang efektif dan efisien terhadap proses registrasi pasien, pelaporan sampai dengan pembayaran sehingga mengakibatkan beban kerja bertambah, penumpukan berkas, proses pencarian informasi cukup lama dan seringkali berisiko kerusakan maupun kehilangan data-data penting.
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Perusahaan teknologi kami akan mengembangkan sistem menggunakan platform web yang terintegrasi dengan data klinik. Pada sistem klinik menyimpan database pelanggan, bidan dan rumah sakit rujukan untuk ke rumah sakit lain.
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab: Kecepatan server yang lebih baik lagi.
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab: Kendala perubahan kebutuhan yang mungkin terjadi dan perubahan teknologi jika diperlukan.
